@@ -24,19 +24,19 @@ Recent multimodal large language models (MLLMs) show strong capabilities in visu
 
 We introduce UR-Bench, a benchmark for ultra–high-resolution multi-hop reasoning, where individual image files range from several megabytes to over 1 GB and exhibit high information density. The benchmark incorporates three levels of reasoning complexity, enabling fine-grained evaluation under extreme visual conditions.
 
-![image-1-1](https://github.com/KnowledgeXLab/UR-Bench/blob/main/image/1-1.jpg)
+![image-1-1](https://github.com/KnowledgeXLab/UR-Bench/blob/main/images/1-1.jpg)
 
 We propose an automated data engine for generating multi-hop reasoning questions over ultra–high-resolution images, capable of automatically producing questions with varying levels of reasoning difficulty.
 
-![image-2-1](https://github.com/KnowledgeXLab/UR-Bench/blob/main/image/2-1.jpg)
+![image-2-1](https://github.com/KnowledgeXLab/UR-Bench/blob/main/images/2-1.jpg)
 
 We propose an agent-based framework that enables LLMs to autonomously plan and coordinate tool-based operations. The framework emphasizes semantic decomposition of ultra-large-scale visual information through the Semantic Abstraction and Retrieval Tool, enabling efficient perception and reasoning over ultra–high-resolution images.
 
-![image-3-1](https://github.com/KnowledgeXLab/UR-Bench/blob/main/image/3-1.jpg)
+![image-3-1](https://github.com/KnowledgeXLab/UR-Bench/blob/main/images/3-1.jpg)
 
 ## Case Study
 
-![image-4-1](https://github.com/KnowledgeXLab/UR-Bench/blob/main/image/4-1.jpg)
+![image-4-1](https://github.com/KnowledgeXLab/UR-Bench/blob/main/images/4-1.jpg)
 
 ## Citation
 
